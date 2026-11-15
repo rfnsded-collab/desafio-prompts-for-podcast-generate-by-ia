@@ -1,0 +1,52 @@
+Podcast Criado com Inteligência Artificial
+Projeto desenvolvido durante os estudos da DIO com foco na utilização de ferramentas de IA para criação de conteúdo em formato de podcast.
+
+Este projeto apresenta uma metodologia para criação de podcasts utilizando Inteligência Artificial em diferentes etapas do processo criativo, desde a elaboração do roteiro até a geração da capa e edição final do áudio.
+
+Ferramentas Utilizadas
+ChatGPT
+MidJourney
+ElevenLabs
+CapCut
+
+Etapas do Projeto
+1. Criação do roteiro
+O ChatGPT foi utilizado para gerar o tema, estrutura do episódio e roteiro completo do podcast.
+
+2. Geração da narração
+O roteiro foi convertido em voz usando o ElevenLabs, simulando uma locução profissional.
+
+3. Produção da identidade visual
+A capa do podcast foi desenvolvida com auxílio do MidJourney através de prompts específicos.
+
+4. Edição final
+O áudio foi tratado e finalizado utilizando o CapCut, incluindo trilha sonora e ajustes de qualidade.
+
+Objetivo
+Demonstrar como diferentes ferramentas de Inteligência Artificial podem trabalhar em conjunto para acelerar a produção de conteúdo digital.
+
+Estrutura do Projeto
+assets/
+output/
+src/
+ └── prompts/
+README.md
+
+Como Replicar
+Crie o roteiro no ChatGPT.
+Gere a locução utilizando o ElevenLabs.
+Produza a capa com o MidJourney.
+Edite o episódio no CapCut.
+Exporte o resultado final para a pasta output.
+
+
+Referências
+DIO - https://dio.me
+ChatGPT - https://chat.openai.com
+ElevenLabs - https://elevenlabs.io
+MidJourney - https://midjourney.com
+CapCut - https://capcut.com
+
+GitHub: https://github.com/rfnsded-collab
+
+LinkedIn: https://www.linkedin.com/in/rogerioferreiralima/
